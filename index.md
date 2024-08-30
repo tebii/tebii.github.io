@@ -7,7 +7,14 @@ author_profile: false
 </div>
 
 
+
+
 <p style="text-align: center;">
-I am not sure why you are here, but you can find my blog and projects that I have done.
+I am not sure why you are here, but you can find my blog and projects that I have done :D
 </p>
+
+<p style="text-align: center;">
+Currently at undergraduate at Nanyang Technological University
+</p>
+
 
