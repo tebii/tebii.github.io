@@ -3,9 +3,7 @@ layout: single
 author_profile: false
 ---
 <div align="center">
-
-![hello.png](assets/images/bio-photo.png)
-
+<img src="assets/images/bio-photo.png" />
 </div>
 
 
